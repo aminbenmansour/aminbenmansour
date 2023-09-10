@@ -1,13 +1,15 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Amine
 =============================================================================================================================
 
-Software Engineering Student | Intern at walt.id
+Software Engineer
 ------------------------------------------------
 <img src="https://img.shields.io/github/followers/aminbenmansour?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
 *   🌍  I'm based in Tunisia
 *   ✉️  You can contact me at [amin.benmansour.10@gmail.com](mailto:amin.benmansour.10@gmail.com)
-*   🧠  I'm learning Self-Sovereign Identity (SSI) & Zero-Knowledge Proof (ZKP)
+*   🧠  I'm learning Self-Sovereign Identity (SSI) through KERI (Key Event Receipt Infrastructure) and ACDC (Authentic Chained Data Container) & Zero-Knowledge Proof (ZKP)
+*   👷  I'm building applications with React, NestJs and Typescript. Rust and Go enthusiast
+*   🔮  Hands-on experience with Kubernetes and Istio
 *   🤝  I'm open to collaborating on projects I am currently learning about
 *   ⚡  Cats are the best<a href="https://www.github.com/aminbenmansour" target="_blank" rel="noreferrer">
   
